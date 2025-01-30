@@ -2160,7 +2160,7 @@ ol {
   font-weight: 700;
   font-size: 40px;
   line-height: 55px;
-  color: #fff;
+  color: #F20487;
   margin: 0px 0 18px;
   text-transform: capitalize;
   overflow: hidden;
@@ -2181,10 +2181,10 @@ ol {
 }
 
 .hero-area .hero-content p {
-  font-weight: 400;
-  font-size: 16px;
+  font-weight: bold;
+  font-size: 20px;
   line-height: 28px;
-  color: #fff;
+  color: #e4c216;
   margin: 28px 0;
 }
 
