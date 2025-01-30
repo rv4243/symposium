@@ -2160,7 +2160,7 @@ ol {
   font-weight: 700;
   font-size: 40px;
   line-height: 55px;
-  color: #F20487;
+  color: #f20487;
   margin: 0px 0 18px;
   text-transform: capitalize;
   overflow: hidden;
@@ -2223,12 +2223,12 @@ ol {
 }
 
 .hero-area .hero-content .button .btn {
-  background-color: #F20487;
+  background-color: #3813c2;
   color: #fff;
 }
 
 .hero-area .hero-content .button .btn:hover {
-  color: #F20487;
+  color: #3813c2;
   background-color: #fff;
 }
 
