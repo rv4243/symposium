@@ -2083,7 +2083,7 @@ ol {
 .hero-area {
   position: relative;
   background-color: #101130;
-  padding: 200px 0 150px 0;
+  padding: 75px 0 150px 0;
   padding-bottom: 240px;
   background-image: url("../images/logo/download-lYQ_-UfuS-transformed.jpeg");
   background-size: cover;
@@ -2210,7 +2210,7 @@ ol {
 }
 
 .hero-area .hero-content .button {
-  margin-top: 40px;
+  margin-top: -100px;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
