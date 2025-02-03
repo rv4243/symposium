@@ -2091,6 +2091,11 @@ ol {
   background-repeat: no-repeat;
 }
 
+/* .sympoimg{
+  height: 350px;
+  width: 400px;
+  padding-bottom: 0%;
+} */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .hero-area {
     padding: 110px 0 120px 0;
@@ -2225,6 +2230,7 @@ ol {
 .hero-area .hero-content .button .btn {
   background-color: #3813c2;
   color: #fff;
+  margin-top: 0%;
 }
 
 .hero-area .hero-content .button .btn:hover {
