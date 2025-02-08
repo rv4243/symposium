@@ -3325,19 +3325,18 @@ ol {
   align-items: center; /* Center vertically */
   /* height: 100vh; Full viewport height */
   text-align: center;
-  padding: 20px;
+  padding: 10px;
   opacity: 2px;
-  height: 100px;
 }
 
 .events-container {
-  padding: 30px 50px; /* Inner spacing */
+  padding: 30px 20px; /* Inner spacing */
   font-size: 3rem; /* Large text */
   font-weight: bold; /* Bold text */
   text-transform: uppercase; /* Capitalized text */
   letter-spacing: 3px; /* Spacing for style */
   font-family: 'Times New Roman', Times, serif;
-  color: rgb(153, 148, 148); /* White text for contrast */
+  color: #e4e4e4; /* White text for contrast */
   transition: transform 0.3s ease-in-out;
 }
 
