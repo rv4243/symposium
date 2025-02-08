@@ -2445,7 +2445,7 @@ ol {
     Features CSS
 ========================================*/
 .features {
-  background-color: #F4F7FA;
+  background-color: #f5f9fc;
 }
 
 .features .section-title {
@@ -3269,4 +3269,23 @@ ol {
 
 .footer .copyright .copyright-text a:hover {
   color: #F20487;
+}
+
+.image-container {
+  display: flex;
+  align-items: center; /* Aligns both images vertically */
+  justify-content: center; /* Centers the images */
+  gap: 5px; /* Reduce gap between images */
+}
+
+.sympoimg {
+  width: 700px; /* Adjust width */
+  height: auto;
+  margin-left:350px;
+}
+
+.text-img {
+  width: 300px; /* Adjust width */
+  height: auto;
+  margin-left: -10px; /* Move it closer */
 }
