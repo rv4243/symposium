@@ -3319,3 +3319,37 @@ ol {
   }
 }
 
+.events-section {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  /* height: 100vh; Full viewport height */
+  text-align: center;
+  padding: 20px;
+  opacity: 2px;
+  height: 100px;
+}
+
+.events-container {
+  padding: 30px 50px; /* Inner spacing */
+  font-size: 3rem; /* Large text */
+  font-weight: bold; /* Bold text */
+  text-transform: uppercase; /* Capitalized text */
+  letter-spacing: 3px; /* Spacing for style */
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(153, 148, 148); /* White text for contrast */
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Hover Effect */
+.events-container:hover {
+  transform: scale(1.05); /* Slight zoom effect */
+}
+
+/* Responsive Design for Mobile View */
+@media (max-width: 768px) {
+  .events-container {
+      font-size: 2rem; /* Reduce font size for mobile */
+      padding: 20px 40px; /* Adjust padding */
+  }
+}
